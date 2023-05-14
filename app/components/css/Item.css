@@ -21,8 +21,8 @@
 }
 
 .draggable-list .list.selected {
-  color: #000000;
-  background-color: #FFFFFF;
+  color: #faf9f9;
+  background-color: #080808;
 }
 
 .draggable-list .list .checkbox-text > div {
