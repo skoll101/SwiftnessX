@@ -27,7 +27,7 @@
   width: calc(100% - 28px);
   border-radius: .6rem;
   font-family: 'nunito-light';
-  background: #f7f8fd;
+  background: #000000;
   box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.1);
   padding: 1.5rem 1rem;
   box-sizing: border-box;
@@ -40,10 +40,10 @@
 .menu-item-nav .menu-item-nav-list #search-item-list input {
   width: 100%;
   border-radius: .6rem;
-  color: #6c6c6d;
+  color: #f7f7fa;
   font-family: 'nunito-light';
   border: none;
-  background: #f7f8fd;
+  background: #000000;
   font-size: 1.3rem;
 }
 
@@ -54,7 +54,7 @@
 .menu-item-nav .menu-item-nav-list #search-item-list svg {
   height: 1.7rem;
   transform: scaleX(-1);
-  fill: #a3a3a3;
+  fill: #fff9f9;
 }
 
 .menu-item-nav .collapsed {
@@ -76,7 +76,7 @@
 .menu-item-nav .menu-item-nav-list ul {
   font-family: 'nunito-regular';
   font-size: 1.4rem;
-  color: #9B9B9B;
+  color: #fffcfc;
 }
 
 .header {
