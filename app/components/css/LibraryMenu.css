@@ -1,6 +1,6 @@
 .menu-item-nav-header {
   height: 4.2rem;
-  border-bottom: 0.1rem solid rgba(0, 0, 0, 0.1);
+  border-bottom: 0.1rem solid rgba(53, 49, 49, 0.1);
   padding: 1.2rem 2.5rem;
   box-sizing: border-box;
   font-size: 1.4rem;
@@ -41,7 +41,7 @@
 .menu-item-nav .menu-item-nav-list ul {
   font-family: 'nunito-regular';
   font-size: 1.4rem;
-  color: #9B9B9B;
+  color: #fcfcfc;
 }
 
 .menu-item-nav .menu-item-nav-list .menu-item {
