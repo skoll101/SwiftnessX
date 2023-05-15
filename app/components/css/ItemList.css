@@ -21,7 +21,7 @@
   border-radius: .6rem;
   color: #9B9B9B;
   font-family: 'nunito-light';
-  background: #FFFFFF;
+  background: #444242;
   box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.1);
   border: none;
   padding: 1.5rem 1rem;
@@ -34,10 +34,10 @@
 .item-list .item-list-controls #search-item-list input {
   width: 100%;
   border-radius: .6rem;
-  color: #9B9B9B;
+  color: #fcfbfb;
   font-family: 'nunito-light';
   border: none;
-  background: #FFFFFF;
+  background: #0e0d0d;
   font-size: 1.4rem;
 }
 
