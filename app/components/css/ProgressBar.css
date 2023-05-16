@@ -26,16 +26,20 @@
   height: 100%;
   border-radius: 0.5rem;
   transition: .5s ease-out;
+  background-color: black;
 }
 
 .progress-bar-container > *:last-child {
   margin-left: 18px;
+  background-color: black;
 }
 
 .progress-bar-container .max {
   color: #515151;
+  background-color: black;
 }
 
 .progress-bar-container .value {
-  color: #adadad;
+  color: #fc0404;
+  background-color: black;
 }
