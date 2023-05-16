@@ -2,6 +2,7 @@
   position: relative;
   float: left;
   width: 24px;
+  background-color: black;
 }
 
 button {
@@ -10,20 +11,30 @@ button {
 
 .toolbar .font span[data-label="Sans Serif"]::before {
   font-family: "Sans Serif";
+  color: white;
+  background-color: black;
 }
 
 .toolbar .font span[data-label="Inconsolata"]::before {
   font-family: "Inconsolata";
+  color: white;
+  background-color: black;
 }
 
 .toolbar .font span[data-label="Roboto"]::before {
   font-family: "Roboto";
+  color: white;
+  background-color: black;
 }
 
 .toolbar .font span[data-label="Mirza"]::before {
   font-family: "Mirza";
+  color: white;
+  background-color: black;
 }
 
 .toolbar .font span[data-label="Arial"]::before {
   font-family: "Arial";
+  color: white;
+  background-color: black;
 }
