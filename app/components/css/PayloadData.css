@@ -7,7 +7,8 @@
   font-family: 'nunito-regular';
   cursor: pointer;
   overflow: hidden;
-  color: #f8f5f5;
+  color: #570606;
+  background-color: black;
 }
 
 .payload-data .payload-data-header p {
@@ -19,10 +20,12 @@
   padding: 3.5rem 3rem;
   max-height: calc(100vh - 128px);
   overflow: auto;
+  background-color: black;
 }
 
 .payload-data .payload-data-body .payload-data-block {
   margin-bottom: 3rem;
+  background-color: black;
 }
 
 .payload-data .payload-data-body .payload-data-block .payload-data-block-title {
@@ -30,11 +33,13 @@
   color: #f7f2f2;
   font-size: 1.3rem;
   font-family: 'nunito-bold';
+  background-color: black;
 }
 
 .payload-data .payload-data-body .payload-data-block .payload-data-block-description {
   width: 100%;
   color: #fdfcfc;
+  background-color: black;
   font-size: 1.3rem;
   font-family: 'nunito-regular';
   display: block;
@@ -44,15 +49,16 @@
 .payload-data .payload-data-body .payload-data-block .payload-data-block-body {
   width: 100%;
   display: flex;
+  background-color: black;
 }
 
 .payload-data .payload-data-body .payload-data-block .payload-data-block-body textarea {
   width: 100%;
-  border: 0.1rem solid rgba(151, 151, 151, 0.38);
+  border: 0.1rem solid rgba(107, 0, 0, 0.38);
   border-radius: .4rem;
   background-color: rgba(10, 10, 10, 0.09);
   padding: 1rem;
-  color: #fcfdfd;
+  color: #fffdfd;
   font-size: 1.3rem;
   font-family: 'nunito-regular';
   margin-top: .5rem;
@@ -76,15 +82,17 @@
   color: #F97072;
   font-size: 1.3rem;
   font-family: 'nunito-regular';
+  background-color: black;
 }
 
 .payload-data .payload-data-body .add-payload-block #add-payload-title,
 .payload-data .payload-data-body .add-payload-block #add-payload-description {
-  border: 1px solid #B1B1B1;
+  border: 1px solid #161616;
   width: 100%;
   height: 3.5rem;
   margin-bottom: 1.5rem;
-  color: #767D81;
+  color: #070707;
+  background-color: black;
   padding: 1rem 1.5rem;
   box-sizing: border-box;
   border-radius: .6rem;
@@ -99,12 +107,13 @@
 }
 
 .payload-data .payload-data-body .add-payload-block #add-payload-body {
-  border: 1px solid #B1B1B1;
+  border: 1px solid #fc0a0a;
   width: 100%;
   height: 7.5rem;
   margin-bottom: 1.5rem;
-  color: #767D81;
+  color: #070707;
   padding: 1rem 1.5rem;
+  background-color: black;
   box-sizing: border-box;
   border-radius: .6rem;
   font-size: 1.3rem;
@@ -139,12 +148,12 @@
 .payload-data .payload-data-body .add-payload-block .cancel-payload-button {
   font-size: 1.3rem;
   font-family: 'nunito-regular';
-  color: #0e0d0d;
+  color: #e00b0b;
   height: 3.5rem;
   width: 7rem;
   border-radius: .6rem;
   float: right;
-  background-color: #4A4A4A;
+  background-color: #0a0a0a;
   padding-top: 1rem;
   box-sizing: border-box;
   text-align: center;
@@ -165,7 +174,7 @@
 }
 
 .toast-delete-text {
-  color: #808080;
+  color: #f7f4f4;
   padding: 6px;
   float: left;
 }
