@@ -8,6 +8,8 @@
   cursor: pointer;
   display: flex;
   position: relative;
+  color:white;
+  background-color: black;
 }
 
 .menu-item-nav-header span {
@@ -17,13 +19,16 @@
 .menu-item-nav-header:hover {
   color: #F97072;
   transition: .15s ease-out;
+  background-color: black;
 }
 
 .menu-item-nav-header:hover:hover svg g g {
   stroke: #F97072;
   transition: .15s ease-out;
+  background-color: black;
 }
 
 .menu-item-nav-header.selected {
   color: #F97072;
+  background-color: black;
 }
