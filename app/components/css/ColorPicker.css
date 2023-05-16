@@ -8,12 +8,14 @@
 
 .color-item:hover {
   cursor: pointer;
+  background-color: black;
+  background: black;
 }
 
 .color-item:hover .border {
   cursor: pointer;
-  background-color: var(--bg-color);
-  border-color: var(--bg-color);
+  background-color: black;
+  border-color: black;
 }
 
 .color-item .border {
@@ -22,14 +24,14 @@
   align-items: center;
   height: 11px;
   width: 11px;
-  border: 1px solid #CECAC9;
+  border: 1px solid #080808;
   border-radius: 50%;
 }
 
 .color-item .center {
   height: 9px;
   width: 9px;
-  background-color: #CECAC9;
+  background-color: #0a0a0a;
   border-radius: 50%;
 }
 
@@ -44,7 +46,7 @@
 .color-item.dark-red .center,
 .color-item.light-green .center,
 .color-item.dark-yellow .center {
-  background-color: var(--bg-color);
+  background-color: black;
 }
 
 .color-picker {
