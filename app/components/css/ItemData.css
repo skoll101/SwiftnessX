@@ -7,7 +7,8 @@
   font-family: 'nunito-regular';
   cursor: pointer;
   overflow: hidden;
-  color: #fcf8f8;
+  color: #f82e2e;
+  
   display: flex;
   justify-content: space-between;
 }
