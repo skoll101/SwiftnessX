@@ -77,10 +77,13 @@
 .item-list .item-list-body {
   height: calc(100vh - 182px);
   overflow-y: auto;
+  background-color: black;
 }
 
 .item-list .item-list-body ul {
   list-style-type: none;
+  color: white;
+  background-color: black;
   margin: 0;
   padding: 0;
 }
