@@ -8,6 +8,7 @@
   cursor: pointer;
   display: flex;
   position: relative;
+  background-color: black;
 }
 
 .menu-item-nav-header span {
@@ -41,7 +42,9 @@
 .menu-item-nav .menu-item-nav-list ul {
   font-family: 'nunito-regular';
   font-size: 1.4rem;
-  color: #fcfcfc;
+  color: #faf7f7;
+  background-color: black;
+  background: black;
 }
 
 .menu-item-nav .menu-item-nav-list .menu-item {
