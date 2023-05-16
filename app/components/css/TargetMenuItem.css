@@ -3,6 +3,8 @@
   list-style-type: none;
   white-space: nowrap;
   text-overflow: ellipsis;
+  background-color: black;
+  background: black;
 }
 
 .list-item:hover {
