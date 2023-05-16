@@ -40,10 +40,11 @@
 .menu-item-nav .menu-item-nav-list #search-item-list input {
   width: 100%;
   border-radius: .6rem;
-  color: #f7f7fa;
+  color: #f70909;
   font-family: 'nunito-light';
   border: none;
   background: #000000;
+  background-color: black;
   font-size: 1.3rem;
 }
 
@@ -54,7 +55,9 @@
 .menu-item-nav .menu-item-nav-list #search-item-list svg {
   height: 1.7rem;
   transform: scaleX(-1);
-  fill: #fff9f9;
+  fill: #fa0505;
+  background-color: black;
+  background: black;
 }
 
 .menu-item-nav .collapsed {
@@ -77,6 +80,8 @@
   font-family: 'nunito-regular';
   font-size: 1.4rem;
   color: #fffcfc;
+  background-color: black;
+  background: black;
 }
 
 .header {
@@ -84,4 +89,6 @@
   align-items: baseline;
   justify-content: space-between;
   padding: 0 1rem 0 2.5rem;
+  background-color: black;
+  background: black;
 }
