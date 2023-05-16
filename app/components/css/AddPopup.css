@@ -1,7 +1,8 @@
 .add-popup {
   width: 125px;
-  background-color: #0c0c0c;
-  color: #4A4A4A;
+  background-color: black;
+  background: black;
+  color: #fdfbfb;
   border-radius: 4px;
   position: absolute;
   z-index: 10;
@@ -17,10 +18,14 @@
   list-style-type: none;
   margin: 0;
   padding: 10px 0 10px 0;
+  background-color: black;
+  background: black;
 }
 
 .add-popup ul li {
   padding: 5px 15px;
+  background-color: black;
+  background: black;
 }
 
 .add-popup ul li:hover {
