@@ -1,17 +1,29 @@
 .checklist-data-body {
   padding: 16px 9px;
+  background-color: black;
+  background: black;
+  text-decoration-color: white;
 }
 
 .editor {
   max-height: calc(100vh - 42px - 7.5rem);
   min-height: 100px;
   overflow-y: auto;
+  background-color: black;
+  background: black;
+  text-decoration-color: white;
 }
 
 .editor .editing-area {
   border: none;
+  background-color: black;
+  background: black;
+  text-decoration-color: white;
 }
 
 .checklist-data-body .editor div > div:nth-child(3) input {
   outline: none;
+  background-color: black;
+  background: black;
+  text-decoration-color: white;
 }
